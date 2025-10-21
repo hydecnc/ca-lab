@@ -12,7 +12,7 @@ public class Main {
                 .addSignupUseCase()
                 .addLoginUseCase()
                 .addChangePasswordUseCase()
-                .addLogoutUseCase() // TODO: DONE - add logout use case
+                .addLogoutUseCase()
                 .build();
 
         application.pack();
